@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xD9BcFd43E6BA76b1468D0a66325C0c06D6DACf33",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD9BcFd43E6BA76b1468D0a66325C0c06D6DACf33",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OG Filosofia Codigo",
+  "SYMBOL": "OGFC",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
